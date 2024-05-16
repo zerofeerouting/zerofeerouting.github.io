@@ -1,1 +1,1 @@
-layout: home
+layout: placeholder
